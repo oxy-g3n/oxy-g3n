@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @oxy-g3n.
-- 👀 I’m interested in - learning, working and building towards what i want to build for the whole world.
-- 🌱 I’m currently learning a bunch of stuff im too lazy to list down here.
--   im dedicated only to the world
+# Hello, I'm Ibrahim 👋
 
-<!---
-oxy-g3n/oxy-g3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Resume:** [Resume](https://tinyurl.com/Resume-ibrahim)
+
+**LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/simplyibrahim/)
+
+I Enjoy solving complex problems, be it digital, electrical or mechanical.
+
+* 🌱 Always learning.
+* 💻 Building one project at a time.
+* 🌍 Hoping to create something that leaves the world a little better.
