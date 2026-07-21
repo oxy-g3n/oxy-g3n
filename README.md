@@ -1,5 +1,7 @@
 # Hello, I'm Ibrahim 👋
 
+I like keeping it simple
+
 **Resume:** [Resume](https://tinyurl.com/Resume-ibrahim)
 
 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/simplyibrahim/)
